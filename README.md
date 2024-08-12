@@ -1,4 +1,4 @@
-# Supplementary materials for CarCKGBuilder project: 
+# Supplementary materials for GeoDataVis project: 
 ### Visualizing Geographic Spatio-Temporal Data Semantics from Knowledge Graph in Forest Fire-Resource Protection Scenarios
 
 including the [datasets](datasets/), [codes](source-code/), and an [appendix](other-materials/Appendix.pdf) containing the hyperparameters settings and other technical details.
